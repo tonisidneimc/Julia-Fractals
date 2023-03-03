@@ -1,6 +1,6 @@
 # Julia-Fractals
 
-An interactive visualization for generating Julia's fractal set on mouse hover. You can also zoom in!
+An interactive visualization for generating Julia's fractal set based on mouse hover. You can also zoom in!
 
    Because programming is an art !!!
 
